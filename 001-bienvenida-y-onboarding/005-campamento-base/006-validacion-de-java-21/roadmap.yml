@@ -1,0 +1,23 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/campamento-base/validacion-de-java-21
+slug: validacion-de-java-21
+title: Validación de Java 21
+summary: Comprobar que Java 21 está instalado y activo.
+status: draft
+tags:
+  - onboarding
+  - java
+  - validacion
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/instalacion-de-java-21
+difficulty: beginner
+estimatedMinutes: 5
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

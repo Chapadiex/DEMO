@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: java
+slug: java
+title: La Ciudadela de Java
+summary: Fundamentos de Java y programación orientada a objetos.
+status: draft
+tags:
+  - java
+  - poo
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: La Ciudadela de Java
+children: []

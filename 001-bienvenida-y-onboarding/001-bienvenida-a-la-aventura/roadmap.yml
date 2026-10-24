@@ -1,0 +1,17 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/bienvenida-a-la-aventura
+slug: bienvenida-a-la-aventura
+title: Bienvenida a la aventura
+summary: Mensaje de bienvenida y presentación del recorrido de la asignatura.
+status: draft
+tags:
+  - bienvenida
+prerequisites: []
+updated: 2026-10-22
+pages:
+  - file: 01-bienvenida-a-la-aventura.md
+    slug: bienvenida-a-la-aventura
+    title: Bienvenida a la aventura
+    summary: Primer contacto con la asignatura y con la forma de recorrerla.
+    estimatedMinutes: 5

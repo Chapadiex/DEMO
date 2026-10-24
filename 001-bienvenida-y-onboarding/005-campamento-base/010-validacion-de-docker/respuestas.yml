@@ -1,0 +1,5 @@
+schemaVersion: 1
+answers:
+  - question: q1
+    correct: a
+    explanation: "`docker --version` muestra la versión del cliente de Docker."

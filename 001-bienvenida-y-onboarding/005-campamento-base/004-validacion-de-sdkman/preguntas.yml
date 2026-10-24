@@ -1,0 +1,14 @@
+schemaVersion: 1
+questions:
+  - id: q1
+    type: multiple-choice
+    prompt: ¿Qué comando permite verificar que SDKMAN está disponible?
+    options:
+      - id: a
+        text: sdk version
+      - id: b
+        text: sdk --check
+      - id: c
+        text: sdkman version
+      - id: d
+        text: sdk list

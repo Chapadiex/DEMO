@@ -1,0 +1,24 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/prueba-del-explorador
+slug: prueba-del-explorador
+title: La Prueba del Explorador
+summary: Comprobar la comprensión de la bienvenida, el mapa y las reglas del juego.
+status: draft
+tags:
+  - onboarding
+  - cuestionario
+prerequisites:
+  - bienvenida-y-onboarding/bienvenida-a-la-aventura
+  - bienvenida-y-onboarding/exploracion-del-roadmap
+  - bienvenida-y-onboarding/las-reglas-del-juego
+difficulty: beginner
+estimatedMinutes: 10
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

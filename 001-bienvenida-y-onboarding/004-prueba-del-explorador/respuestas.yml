@@ -1,0 +1,32 @@
+schemaVersion: 1
+answers:
+  - question: q1
+    correct: a
+    explanation: Cada isla representa una unidad de la asignatura.
+  - question: q2
+    correct: a
+    explanation: Las islas combinan páginas de teoría y desafíos.
+  - question: q3
+    correct: a
+    explanation: El Bosque de las Ramas está dedicado a Git y al control de versiones.
+  - question: q4
+    correct: a
+    explanation: La Forja de Artefactos trabaja con Maven, dependencias y artefactos.
+  - question: q5
+    correct: a
+    explanation: Los desafíos prácticos proponen una actividad; los teóricos plantean preguntas.
+  - question: q6
+    correct: a
+    explanation: Se exige una asistencia mayor o igual al 80 % en todas las clases.
+  - question: q7
+    correct: a
+    explanation: Para aprobar la asignatura se deben aprobar los exámenes parciales y el trabajo práctico integrador.
+  - question: q8
+    correct: a
+    explanation: Para rendir el examen se debe haber cumplido todo el roadmap hasta el examen.
+  - question: q9
+    correct: a
+    explanation: No usar los celulares en clase es una de las normas de convivencia.
+  - question: q10
+    correct: a
+    explanation: Conviene leer la teoría de la isla antes de resolver el desafío.

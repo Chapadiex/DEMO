@@ -1,0 +1,19 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/exploracion-del-roadmap
+slug: exploracion-del-roadmap
+title: Exploración del roadmap
+summary: Organización general de la asignatura y recorrido por sus islas.
+status: draft
+tags:
+  - roadmap
+  - onboarding
+prerequisites:
+  - bienvenida-y-onboarding/bienvenida-a-la-aventura
+updated: 2026-10-22
+pages:
+  - file: 01-exploracion-del-roadmap.md
+    slug: exploracion-del-roadmap
+    title: Exploración del roadmap
+    summary: Mapa de islas, temas y tipos de contenido de la asignatura.
+    estimatedMinutes: 10

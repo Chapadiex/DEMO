@@ -1,0 +1,23 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/campamento-base/validacion-de-git-y-git-bash
+slug: validacion-de-git-y-git-bash
+title: Validación de Git y Git Bash
+summary: Comprobar que Git y Git Bash responden en la terminal.
+status: draft
+tags:
+  - onboarding
+  - git
+  - validacion
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/instalacion-de-git-y-git-bash
+difficulty: beginner
+estimatedMinutes: 5
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

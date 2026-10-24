@@ -1,0 +1,19 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/las-reglas-del-juego
+slug: las-reglas-del-juego
+title: Las reglas del juego
+summary: Reglas formales de la cursada y normas de convivencia en el curso y la plataforma.
+status: draft
+tags:
+  - reglas
+  - convivencia
+prerequisites:
+  - bienvenida-y-onboarding/exploracion-del-roadmap
+updated: 2026-10-22
+pages:
+  - file: 01-las-reglas-del-juego.md
+    slug: las-reglas-del-juego
+    title: Las reglas del juego
+    summary: Condiciones de la cursada, evaluación y convivencia.
+    estimatedMinutes: 10

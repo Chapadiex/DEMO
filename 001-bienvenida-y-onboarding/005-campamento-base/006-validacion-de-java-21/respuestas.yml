@@ -1,0 +1,5 @@
+schemaVersion: 1
+answers:
+  - question: q1
+    correct: a
+    explanation: "`java -version` muestra la versión del entorno de ejecución de Java."

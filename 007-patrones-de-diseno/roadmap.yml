@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: patrones-de-diseno
+slug: patrones-de-diseno
+title: El Templo de los Patrones
+summary: Patrones de diseño, soluciones reutilizables para problemas recurrentes.
+status: draft
+tags:
+  - patrones-de-diseno
+  - poo
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: El Templo de los Patrones
+children: []

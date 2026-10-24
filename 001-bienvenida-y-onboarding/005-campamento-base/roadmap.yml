@@ -1,0 +1,34 @@
+schemaVersion: 1
+type: section
+id: bienvenida-y-onboarding/campamento-base
+slug: campamento-base
+title: El Campamento Base
+summary: Onboarding técnico, instalación y verificación de las herramientas del curso.
+status: draft
+tags:
+  - onboarding
+  - herramientas
+prerequisites:
+  - bienvenida-y-onboarding/prueba-del-explorador
+updated: 2026-10-22
+children:
+  - path: 001-instalacion-de-git-y-git-bash
+    order: 1
+  - path: 002-validacion-de-git-y-git-bash
+    order: 2
+  - path: 003-instalacion-de-sdkman
+    order: 3
+  - path: 004-validacion-de-sdkman
+    order: 4
+  - path: 005-instalacion-de-java-21
+    order: 5
+  - path: 006-validacion-de-java-21
+    order: 6
+  - path: 007-instalacion-de-maven
+    order: 7
+  - path: 008-validacion-de-maven
+    order: 8
+  - path: 009-instalacion-de-docker
+    order: 9
+  - path: 010-validacion-de-docker
+    order: 10

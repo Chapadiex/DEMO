@@ -1,0 +1,19 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/campamento-base/instalacion-de-git-y-git-bash
+slug: instalacion-de-git-y-git-bash
+title: Instalación de Git y Git Bash
+summary: Instalación y verificación de Git y de la terminal Git Bash.
+status: draft
+tags:
+  - onboarding
+  - git
+prerequisites:
+  - bienvenida-y-onboarding/prueba-del-explorador
+updated: 2026-10-22
+pages:
+  - file: 01-instalacion-de-git-y-git-bash.md
+    slug: instalacion-de-git-y-git-bash
+    title: Instalación de Git y Git Bash
+    summary: Preparación de Git y de la terminal que vas a usar en el curso.
+    estimatedMinutes: 10

@@ -1,0 +1,19 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/campamento-base/instalacion-de-maven
+slug: instalacion-de-maven
+title: Instalación de Maven
+summary: Instalación y verificación de Maven con SDKMAN.
+status: draft
+tags:
+  - onboarding
+  - maven
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/validacion-de-java-21
+updated: 2026-10-22
+pages:
+  - file: 01-instalacion-de-maven.md
+    slug: instalacion-de-maven
+    title: Instalación de Maven
+    summary: Preparación de la herramienta de construcción de proyectos Java.
+    estimatedMinutes: 10

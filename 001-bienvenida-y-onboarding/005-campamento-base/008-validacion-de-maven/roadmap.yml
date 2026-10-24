@@ -1,0 +1,23 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/campamento-base/validacion-de-maven
+slug: validacion-de-maven
+title: Validación de Maven
+summary: Comprobar que Maven está instalado y usa Java 21.
+status: draft
+tags:
+  - onboarding
+  - maven
+  - validacion
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/instalacion-de-maven
+difficulty: beginner
+estimatedMinutes: 5
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

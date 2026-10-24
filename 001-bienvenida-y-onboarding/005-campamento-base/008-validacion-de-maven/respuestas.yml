@@ -1,0 +1,5 @@
+schemaVersion: 1
+answers:
+  - question: q1
+    correct: a
+    explanation: "`mvn -version` muestra la versión de Maven y la de Java en uso."

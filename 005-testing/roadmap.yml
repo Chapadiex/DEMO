@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: testing
+slug: testing
+title: El Laberinto de las Pruebas
+summary: Pruebas unitarias, aislamiento y confianza en el código.
+status: draft
+tags:
+  - testing
+  - calidad
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: El Laberinto de las Pruebas
+children: []

@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: microservicios-y-spring
+slug: microservicios-y-spring
+title: El Archipiélago de los Servicios
+summary: Microservicios y Spring, servicios independientes, comunicación y despliegue.
+status: draft
+tags:
+  - microservicios
+  - spring
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: El Archipiélago de los Servicios
+children: []

@@ -1,0 +1,19 @@
+schemaVersion: 1
+type: theory
+id: bienvenida-y-onboarding/campamento-base/instalacion-de-java-21
+slug: instalacion-de-java-21
+title: Instalación de Java 21
+summary: Instalación de un JDK 21 LTS con SDKMAN y verificación de la versión.
+status: draft
+tags:
+  - onboarding
+  - java
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/validacion-de-sdkman
+updated: 2026-10-22
+pages:
+  - file: 01-instalacion-de-java-21.md
+    slug: instalacion-de-java-21
+    title: Instalación de Java 21
+    summary: Preparación del JDK que vas a usar durante la cursada.
+    estimatedMinutes: 10

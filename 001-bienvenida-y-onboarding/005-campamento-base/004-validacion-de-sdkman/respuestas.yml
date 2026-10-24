@@ -1,0 +1,5 @@
+schemaVersion: 1
+answers:
+  - question: q1
+    correct: a
+    explanation: "`sdk version` muestra la versión de SDKMAN en uso."

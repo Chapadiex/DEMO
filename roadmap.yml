@@ -1,0 +1,21 @@
+schemaVersion: 1
+type: catalog
+title: Mapa de la asignatura
+summary: Recorrido por las islas de programación orientada a objetos, Git, Java, Maven, testing, algoritmos, patrones de diseño y microservicios.
+units:
+  - path: 001-bienvenida-y-onboarding
+    order: 1
+  - path: 002-git
+    order: 2
+  - path: 003-java
+    order: 3
+  - path: 004-maven
+    order: 4
+  - path: 005-testing
+    order: 5
+  - path: 006-algoritmos
+    order: 6
+  - path: 007-patrones-de-diseno
+    order: 7
+  - path: 008-microservicios-y-spring
+    order: 8

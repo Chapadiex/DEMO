@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: git
+slug: git
+title: El Bosque de las Ramas
+summary: Control de versiones con Git, desde el primer commit hasta el trabajo con ramas.
+status: draft
+tags:
+  - git
+  - control-de-versiones
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: El Bosque de las Ramas
+children: []

@@ -1,0 +1,23 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/campamento-base/validacion-de-docker
+slug: validacion-de-docker
+title: Validación de Docker
+summary: Comprobar que Docker está instalado y puede ejecutar contenedores.
+status: draft
+tags:
+  - onboarding
+  - docker
+  - validacion
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/instalacion-de-docker
+difficulty: beginner
+estimatedMinutes: 5
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

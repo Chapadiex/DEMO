@@ -1,0 +1,23 @@
+schemaVersion: 1
+type: challenge-theory
+id: bienvenida-y-onboarding/campamento-base/validacion-de-sdkman
+slug: validacion-de-sdkman
+title: Validación de SDKMAN
+summary: Comprobar que SDKMAN está disponible en la terminal.
+status: draft
+tags:
+  - onboarding
+  - sdkman
+  - validacion
+prerequisites:
+  - bienvenida-y-onboarding/campamento-base/instalacion-de-sdkman
+difficulty: beginner
+estimatedMinutes: 5
+updated: 2026-10-22
+validation:
+  mode: site
+contents:
+  statement: consigna.md
+  questions: preguntas.yml
+  solution: respuestas.yml
+publishSolution: false

@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: algoritmos
+slug: algoritmos
+title: La Cumbre de la Complejidad
+summary: Resolución de problemas, eficiencia y estructuras de datos.
+status: draft
+tags:
+  - algoritmos
+  - estructuras-de-datos
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: La Cumbre de la Complejidad
+children: []

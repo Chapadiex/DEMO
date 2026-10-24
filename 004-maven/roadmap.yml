@@ -1,0 +1,16 @@
+schemaVersion: 1
+type: unit
+id: maven
+slug: maven
+title: La Forja de Artefactos
+summary: Maven, estructura de proyectos, dependencias, ciclo de vida y artefactos.
+status: draft
+tags:
+  - maven
+  - build
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: La Forja de Artefactos
+children: []

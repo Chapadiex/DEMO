@@ -1,0 +1,122 @@
+schemaVersion: 1
+questions:
+  - id: q1
+    type: multiple-choice
+    prompt: ¿Qué representa una isla en este recorrido?
+    options:
+      - id: a
+        text: Una unidad de la asignatura.
+      - id: b
+        text: Un archivo PDF de lectura obligatoria.
+      - id: c
+        text: Un foro de consultas.
+      - id: d
+        text: Una evaluación final.
+  - id: q2
+    type: multiple-choice
+    prompt: ¿Qué dos tipos de contenido vas a encontrar dentro de una isla?
+    options:
+      - id: a
+        text: Teoría y desafíos.
+      - id: b
+        text: Solo videos y foros.
+      - id: c
+        text: Solo exámenes.
+      - id: d
+        text: Apuntes y encuestas.
+  - id: q3
+    type: multiple-choice
+    prompt: ¿Qué tema corresponde a El Bosque de las Ramas?
+    options:
+      - id: a
+        text: Git y control de versiones.
+      - id: b
+        text: Maven y construcción de proyectos.
+      - id: c
+        text: Testing.
+      - id: d
+        text: Microservicios y Spring.
+  - id: q4
+    type: multiple-choice
+    prompt: ¿Qué tema corresponde a La Forja de Artefactos?
+    options:
+      - id: a
+        text: Maven, dependencias y artefactos.
+      - id: b
+        text: Algoritmos y estructuras de datos.
+      - id: c
+        text: Patrones de diseño.
+      - id: d
+        text: Java y programación orientada a objetos.
+  - id: q5
+    type: multiple-choice
+    prompt: ¿Cuál es la diferencia entre un desafío práctico y uno teórico?
+    options:
+      - id: a
+        text: El práctico propone resolver una actividad con código o herramientas; el teórico plantea preguntas.
+      - id: b
+        text: El práctico es opcional y el teórico es obligatorio.
+      - id: c
+        text: El práctico no tiene consigna y el teórico sí.
+      - id: d
+        text: No hay diferencia entre ambos.
+  - id: q6
+    type: multiple-choice
+    prompt: ¿Cuál es la asistencia mínima requerida en todas las clases?
+    options:
+      - id: a
+        text: 80 %.
+      - id: b
+        text: 70 %.
+      - id: c
+        text: 90 %.
+      - id: d
+        text: 100 %.
+  - id: q7
+    type: multiple-choice
+    prompt: ¿Qué instancias se deben aprobar para aprobar la asignatura?
+    options:
+      - id: a
+        text: Los exámenes parciales y el trabajo práctico integrador.
+      - id: b
+        text: Solo los exámenes parciales.
+      - id: c
+        text: Solo el trabajo práctico integrador.
+      - id: d
+        text: Únicamente los desafíos del roadmap.
+  - id: q8
+    type: multiple-choice
+    prompt: ¿Qué condición se debe cumplir para poder rendir el examen?
+    options:
+      - id: a
+        text: Haber cumplido todo el roadmap hasta el examen.
+      - id: b
+        text: Haber aprobado solo el trabajo práctico integrador.
+      - id: c
+        text: Tener el 100 % de asistencia.
+      - id: d
+        text: Resolver un desafío adicional fuera del roadmap.
+  - id: q9
+    type: multiple-choice
+    prompt: ¿Cuál de estas es una norma de convivencia?
+    options:
+      - id: a
+        text: No usar los celulares en clase.
+      - id: b
+        text: Compartir la herramienta con personas ajenas al curso.
+      - id: c
+        text: Interrumpir las explicaciones para preguntar.
+      - id: d
+        text: Usar los foros sin moderación.
+  - id: q10
+    type: multiple-choice
+    prompt: ¿Qué conviene hacer antes de resolver un desafío?
+    options:
+      - id: a
+        text: Leer la teoría de la isla.
+      - id: b
+        text: Adivinar las respuestas.
+      - id: c
+        text: Saltear la consigna.
+      - id: d
+        text: Esperar a la evaluación final.

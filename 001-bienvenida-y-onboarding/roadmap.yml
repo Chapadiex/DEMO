@@ -1,0 +1,25 @@
+schemaVersion: 1
+type: unit
+id: bienvenida-y-onboarding
+slug: bienvenida-y-onboarding
+title: Bienvenida y onboarding
+summary: Presentación de la asignatura, el mapa de islas, las herramientas y la forma de trabajo.
+status: draft
+tags:
+  - onboarding
+prerequisites: []
+updated: 2026-10-22
+gamification:
+  island:
+    name: Bienvenida y onboarding
+children:
+  - path: 001-bienvenida-a-la-aventura
+    order: 1
+  - path: 002-exploracion-del-roadmap
+    order: 2
+  - path: 003-las-reglas-del-juego
+    order: 3
+  - path: 004-prueba-del-explorador
+    order: 4
+  - path: 005-campamento-base
+    order: 5

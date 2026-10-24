@@ -1,0 +1,14 @@
+schemaVersion: 1
+questions:
+  - id: q1
+    type: multiple-choice
+    prompt: ¿Qué comando permite verificar que Git está instalado?
+    options:
+      - id: a
+        text: git --version
+      - id: b
+        text: git install
+      - id: c
+        text: git check
+      - id: d
+        text: version git

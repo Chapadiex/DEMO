@@ -1,0 +1,14 @@
+schemaVersion: 1
+questions:
+  - id: q1
+    type: multiple-choice
+    prompt: ¿Qué comando permite verificar que Maven está instalado?
+    options:
+      - id: a
+        text: mvn -version
+      - id: b
+        text: maven --version
+      - id: c
+        text: mvn install
+      - id: d
+        text: java maven
